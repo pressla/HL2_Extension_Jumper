@@ -15,6 +15,10 @@ You can simply upload the gerber files in the folder [**"gerber"**](https://gith
 
 ### [Link to EasyEDA Project](https://bit.ly/3dDbFP3)
 
+
+
+[All pictures are here](https://github.com/pressla/HL2_Extension_Jumper/tree/master/pics)
+
 ------
 
 ### Sample use cases
