@@ -9,9 +9,43 @@ It designed to be cut for different purpose, since each PCB at JLCPCB costs the 
 2. Allows to switch individual extensions to the secondary header to avoid i.e. all RF connected to other boards because of 40pin header takes them all
 3. breadboard for through hole experiments
 
-You can simply upload the gerber files in the folder "gerber" or go to easyeda online editor, the full project is open to you for cloning, making changes and order directly from that tool at JLCPCB. You will get an online quote when pressing the "create gerber" button in the pcb view.
+You can simply upload the gerber files in the folder [**"gerber"**](https://github.com/pressla/HL2_Extension_Jumper/tree/master/gerber) or go to easyeda online editor, the full project is open to you for cloning, making changes and order directly from that tool at JLCPCB. You will get an online quote when pressing the "create gerber" button in the pcb view.
 
-[Link to easyeda project]: https://bit.ly/3dDbFP3
+<img src="pics/2020-06-28_16-28-41.png" style="zoom:50%;" />
+
+### [Link to EasyEDA Project](https://bit.ly/3dDbFP3)
+
+------
+
+### Sample use cases
+
+The second double row next to the extension connector is splitting the signals. This means you can either put direct a flat ribbon connector on this header, or as seen in picture jumper a few signals to the third double row header where you put your connector on, or go the breadboard.
+
+The jumpers are an extra flexibility. of course one can solder also the wire here.
+
+In this picture SDA2,SCL2,3v3,GND are the ones jumpered to the third double row.
+
+![](pics/20200628_152533.jpg)
+
+![](pics/20200628_152540.jpg)
+
+![](pics/20200628_170647.jpg)
+
+![](pics/20200628_170722.jpg)
+
+### Full Connector
+
+![](pics/20200628_153233.jpg)
+
+### Or a minimal connector
+
+![](pics/20200628_153317.jpg)
+
+![](pics/20200628_153311.jpg)
+
+![](pics/20200628_153352.jpg)
+
+![](pics/20200627_225751.jpg)
 
 ------
 
